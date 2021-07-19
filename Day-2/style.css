@@ -1,0 +1,14 @@
+.first{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: burlywood;
+    margin-right: 215px;
+    border-radius: 10px;
+    margin-left: 210px;
+    margin-top: 25px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+h3{
+    text-align: center;
+    padding-top: 20px;
+}

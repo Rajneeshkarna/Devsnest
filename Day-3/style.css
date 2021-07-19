@@ -1,0 +1,21 @@
+.first{
+    display: inline-block;
+    width: 600px;
+    height: 600px;
+    
+    
+    border-right: 2px solid black;
+}
+
+.second{
+    display: inline-block;
+    width: 600px;
+    height: 600px;
+    padding-left: 10px;
+    border-left: 1px solid black;
+    
+}
+#profile{
+    margin-top: 0px;
+    font-size: small;
+}
